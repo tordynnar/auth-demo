@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Playwright MCP test artifacts
+.playwright-mcp/
+
+# macOS
+.DS_Store
