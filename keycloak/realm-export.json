@@ -17,10 +17,10 @@
       "directAccessGrantsEnabled": false,
       "serviceAccountsEnabled": false,
       "redirectUris": [
-        "http://localhost/oauth2/callback"
+        "https://localhost/oauth2/callback"
       ],
       "webOrigins": [
-        "http://localhost"
+        "https://localhost"
       ],
       "protocolMappers": [
         {
